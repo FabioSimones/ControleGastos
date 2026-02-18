@@ -1,5 +1,5 @@
 <Solution>
-  <Folder Name="/1 - Apresentacao/">
+  <Folder Name="/1 - Apresentation/">
     <Project Path="WebApi/WebApi.csproj" />
   </Folder>
   <Folder Name="/2 - Domain/">
