@@ -1,6 +1,6 @@
 ﻿using Infra.Persistence;
 
-namespace Infra.UnitOfWork
+namespace Infra.Persistence.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork
     {

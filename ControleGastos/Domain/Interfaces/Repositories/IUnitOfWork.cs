@@ -1,4 +1,4 @@
-﻿namespace Infra.UnitOfWork
+﻿namespace Infra.Persistence.UnitOfWork
 {
     public interface IUnitOfWork
     {
