@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\configuration\\transacaoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\configuration\\transacaoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\enums\\categoriafinalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\enums\\categoriafinalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\enums\\transacaotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\enums\\transacaotipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\configuration\\categoriaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\configuration\\categoriaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos c#\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,80 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entities\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Categoria.cs",
-              "RelativeToolTip": "Entities\\Entities\\Categoria.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Title": "TransacaoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\TransacaoConfiguration.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\Configuration\\TransacaoConfiguration.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\TransacaoConfiguration.cs",
+              "RelativeToolTip": "Infra\\Persistence\\Configuration\\TransacaoConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:46:17.349Z",
+              "WhenOpened": "2026-02-18T21:33:54.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Base.cs",
-              "RelativeDocumentMoniker": "Entities\\Entities\\Base.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Base.cs",
-              "RelativeToolTip": "Entities\\Entities\\Base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Title": "CategoriaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\CategoriaConfiguration.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\Configuration\\CategoriaConfiguration.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\CategoriaConfiguration.cs",
+              "RelativeToolTip": "Infra\\Persistence\\Configuration\\CategoriaConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:42:45.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T21:32:47.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "PessoaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
+              "RelativeToolTip": "Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:31:53.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infra\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:31:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Pessoa.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Pessoa.cs",
               "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Pessoa.cs",
               "RelativeToolTip": "Entities\\Entities\\Pessoa.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:41:35.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T21:27:42.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Transacao.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Transacao.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Transacao.cs",
               "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Transacao.cs",
               "RelativeToolTip": "Entities\\Entities\\Transacao.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:40:52.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransacaoTipo.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Enums\\TransacaoTipo.cs",
-              "RelativeDocumentMoniker": "Entities\\Entities\\Enums\\TransacaoTipo.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Enums\\TransacaoTipo.cs",
-              "RelativeToolTip": "Entities\\Entities\\Enums\\TransacaoTipo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:40:35.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaFinalidade.cs",
-              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Enums\\CategoriaFinalidade.cs",
-              "RelativeDocumentMoniker": "Entities\\Entities\\Enums\\CategoriaFinalidade.cs",
-              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Enums\\CategoriaFinalidade.cs",
-              "RelativeToolTip": "Entities\\Entities\\Enums\\CategoriaFinalidade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T18:40:18.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T21:14:23.662Z"
             }
           ]
         }

@@ -159,10 +159,10 @@ C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleG
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\WebApi.dll
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\refint\WebApi.dll
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\WebApi.pdb
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
 C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\fsimones\Documents\Estudos C#\Projeto2026\ControleGastosTeste\ControleGastos\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
