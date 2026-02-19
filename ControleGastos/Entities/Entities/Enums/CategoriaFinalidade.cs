@@ -2,8 +2,8 @@
 {
     public enum CategoriaFinalidade
     {
-        Despesas,
-        Receitas,
-        Ambas
+        Despesas = 1,
+        Receitas = 2,
+        Ambas = 3
     }
 }
