@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y0hnTVI7O58=",
+  "dgSpecHash": "Zs8zhsvNDx0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fsimones\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\fsimones\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

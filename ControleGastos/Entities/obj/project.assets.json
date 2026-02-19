@@ -4114,11 +4114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\fsimones\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

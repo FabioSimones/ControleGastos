@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iBg6asyzKVs=",
+  "dgSpecHash": "o/0V7al00nE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fsimones\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\fsimones\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

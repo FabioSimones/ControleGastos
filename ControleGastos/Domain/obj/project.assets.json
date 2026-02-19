@@ -4136,11 +4136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\fsimones\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4164,8 +4164,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos C#\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj"
+            "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities.csproj"
             }
           }
         }
