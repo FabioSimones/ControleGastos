@@ -1,5 +1,4 @@
 # 💰 Controle de Gastos Residenciais
-## Enterprise-Level Financial Management System
 
 Sistema completo de Controle de Gastos Residenciais, desenvolvido como desafio técnico utilizando .NET 10 no Back-end e React + TypeScript no Front-end.
 
