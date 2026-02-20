@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { AppShellLayout } from "./layout/AppShellLayout";
-import { DashboardPage } from "./pages/Dashboard";
+import { DashboardPage } from "./pages/dashboard/DashboardPage";
 import { PessoasPage } from "./pages/pessoas/PessoasPage";
 import { CategoriasPage } from "./pages/categorias/CategoriasPage";
 import { TransacoesPage } from "./pages/transacoes/TransacoesPage";

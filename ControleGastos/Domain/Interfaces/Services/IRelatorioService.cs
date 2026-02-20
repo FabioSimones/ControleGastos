@@ -4,6 +4,9 @@ namespace Domain.Interfaces.Services
 {
     public interface IRelatorioService
     {
-        Task<TotaisPorPessoaResponse> ObterTotaisPorPessoaAsync(CancellationToken ct = default);
+        Task<TotaisPorPessoaResponse> ObterTotaisPorPessoaAsync(
+            DateOnly? dataInicio,
+            DateOnly? dataFim,
+            CancellationToken ct);
     }
 }

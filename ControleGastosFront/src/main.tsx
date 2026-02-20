@@ -8,6 +8,7 @@ import { Notifications } from "@mantine/notifications";
 import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./app/queryClient";
 
+import "./app/dates";
 import "@mantine/core/styles.css";
 import "@mantine/notifications/styles.css";
 import "./styles/global.css";

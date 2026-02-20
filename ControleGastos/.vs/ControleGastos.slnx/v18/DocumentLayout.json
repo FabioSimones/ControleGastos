@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\webapi\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\relatorioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\domain\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\infra\\persistence\\repositories\\implementations\\transacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9C5B66-1D6D-84AA-47D3-4A702F3DC39A}|Infra\\Infra.csproj|solutionrelative:infra\\persistence\\repositories\\implementations\\transacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\domain\\interfaces\\services\\irelatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\services\\irelatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\fsimones\\documents\\estudos csharp\\projeto2026\\controlegastosteste\\controlegastos\\domain\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +58,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Base.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Base.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Base.cs",
+              "RelativeToolTip": "Entities\\Entities\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:17:49.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Infra\\Persistence\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:13:12.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Repositories\\Implementations\\TransacaoRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Persistence\\Repositories\\Implementations\\TransacaoRepository.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Repositories\\Implementations\\TransacaoRepository.cs",
+              "RelativeToolTip": "Infra\\Persistence\\Repositories\\Implementations\\TransacaoRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:12:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Services\\RelatorioService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\RelatorioService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Services\\RelatorioService.cs",
+              "RelativeToolTip": "Domain\\Services\\RelatorioService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:09:42.698Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IRelatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Interfaces\\Services\\IRelatorioService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Services\\IRelatorioService.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Interfaces\\Services\\IRelatorioService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Services\\IRelatorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:08:38.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelatoriosController.cs",
+              "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\Controllers\\RelatoriosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RelatoriosController.cs",
+              "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\Controllers\\RelatoriosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RelatoriosController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:07:16.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20260220111604_PrimeiraMigracao.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Migrations\\20260220111604_PrimeiraMigracao.cs",
               "RelativeDocumentMoniker": "Infra\\Migrations\\20260220111604_PrimeiraMigracao.cs",
@@ -50,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PessoaConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
               "RelativeDocumentMoniker": "Infra\\Persistence\\Configuration\\PessoaConfiguration.cs",
@@ -62,19 +159,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "WebApi\\Exceptions\\ExceptionMiddleware.cs",
               "ToolTip": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeToolTip": "WebApi\\Exceptions\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T11:13:14.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PessoaService.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Domain\\Services\\PessoaService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\PessoaService.cs",
@@ -82,12 +179,11 @@
               "RelativeToolTip": "Domain\\Services\\PessoaService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:11:50.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:11:50.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\Entities\\Entities\\Pessoa.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Pessoa.cs",
@@ -99,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fsimones\\Documents\\Estudos CSharp\\Projeto2026\\ControleGastosTeste\\ControleGastos\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",

@@ -16,10 +16,12 @@ namespace WebApi.Controllers
         }
 
         [HttpGet("totais-por-pessoa")]
-        [ProducesResponseType(typeof(TotaisPorPessoaResponse), StatusCodes.Status200OK)]
-        public async Task<IActionResult> TotaisPorPessoa(CancellationToken ct)
+        public async Task<IActionResult> TotaisPorPessoa(
+            [FromQuery] DateOnly? dataInicio,
+            [FromQuery] DateOnly? dataFim,
+            CancellationToken ct)
         {
-            var result = await _service.ObterTotaisPorPessoaAsync(ct);
+            var result = await _service.ObterTotaisPorPessoaAsync(dataInicio, dataFim, ct);
             return Ok(result);
         }
     }
