@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infra.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20260218213827_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20260220111604_PrimeiraMigracao")]
+    partial class PrimeiraMigracao
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -76,7 +76,10 @@ namespace Infra.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pessoas", (string)null);
+                    b.ToTable("Pessoas", null, t =>
+                        {
+                            t.HasCheckConstraint("CK_Pessoa_Idade", "[Idade] >= 0");
+                        });
                 });
 
             modelBuilder.Entity("Entities.Entities.Transacao", b =>

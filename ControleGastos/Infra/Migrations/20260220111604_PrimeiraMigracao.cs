@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Infra.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class PrimeiraMigracao : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -41,6 +41,7 @@ namespace Infra.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Pessoas", x => x.Id);
+                    table.CheckConstraint("CK_Pessoa_Idade", "[Idade] >= 0");
                 });
 
             migrationBuilder.CreateTable(

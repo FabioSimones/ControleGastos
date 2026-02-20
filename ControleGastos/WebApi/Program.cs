@@ -6,6 +6,7 @@ using Infra.Persistence.Repositories.Implementations;
 using Infra.Persistence.UnitOfWork;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
+using WebApi.Exceptions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -77,6 +78,8 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = "swagger"; 
     });
 }
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 

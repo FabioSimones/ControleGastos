@@ -19,6 +19,8 @@ namespace Infra.Persistence.Configuration
             builder.Property(p => p.Idade)
                 .IsRequired();
 
+            builder.HasCheckConstraint("CK_Pessoa_Idade", "[Idade] >= 0");
+
             builder.HasMany(p => p.Transacoes)
                 .WithOne(t => t.Pessoa)
                 .HasForeignKey(t => t.PessoaId)

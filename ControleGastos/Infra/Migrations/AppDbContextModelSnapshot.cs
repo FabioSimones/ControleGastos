@@ -73,7 +73,10 @@ namespace Infra.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Pessoas", (string)null);
+                    b.ToTable("Pessoas", null, t =>
+                        {
+                            t.HasCheckConstraint("CK_Pessoa_Idade", "[Idade] >= 0");
+                        });
                 });
 
             modelBuilder.Entity("Entities.Entities.Transacao", b =>
