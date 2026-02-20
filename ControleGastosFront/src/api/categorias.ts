@@ -4,7 +4,12 @@ import { endpoints } from "./endpoints";
 export type Categoria = {
   id: number;
   descricao: string;
-  finalidade: number; // enum vindo do back
+  finalidade: number; 
+};
+
+export type CategoriaCreate = {
+  descricao: string;
+  finalidade: number;
 };
 
 export const categoriasApi = {
@@ -13,7 +18,7 @@ export const categoriasApi = {
     return data;
   },
 
-  criar: async (payload: Omit<Categoria, "id">) => {
+  criar: async (payload: CategoriaCreate) => {
     const { data } = await http.post(endpoints.categorias, payload);
     return data;
   },

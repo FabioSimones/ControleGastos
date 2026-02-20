@@ -2,8 +2,8 @@ import { Routes, Route } from "react-router-dom";
 import { AppShellLayout } from "./layout/AppShellLayout";
 import { DashboardPage } from "./pages/Dashboard";
 import { PessoasPage } from "./pages/pessoas/PessoasPage";
-import { CategoriasPage } from "./pages/Categorias";
-import { TransacoesPage } from "./pages/Transacoes";
+import { CategoriasPage } from "./pages/categorias/CategoriasPage";
+import { TransacoesPage } from "./pages/transacoes/TransacoesPage";
 
 export default function App() {
   return (
